@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <time.h>
+#include <time.h> //Biblioteka od tego
 
 int main()
 {
