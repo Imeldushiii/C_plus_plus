@@ -4,7 +4,7 @@
 
 int main()
 {
-    int result = std::sqrt(100); //Pierwiastek
+    double result = std::sqrt(100); //Pierwiastek
     std::cout << result << std::endl;
     return 0;
 }
